@@ -1,5 +1,5 @@
 ### Hi, I'm Jinyoung Kim
-<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
 
 <!--
 **JYKIM317/JYKIM317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
