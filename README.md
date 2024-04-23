@@ -1,8 +1,19 @@
 ### Hi, I'm Jinyoung Kim
-<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
+
+### Mobile Application Developer
+  - CrossPlatform Application develop with Flutter framwork
+
+### Interest
+  - Code design pattern
+  - State management
+  - UI/UX
 
 ### Last completed project is
 https://github.com/JYKIM317/TripMarket
+
+<div align=center>
+<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
+</div>
 
 <!--
 **JYKIM317/JYKIM317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
