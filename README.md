@@ -9,7 +9,7 @@
   - UI/UX
 
 ### Last completed project is
-<img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=000000&link=https://github.com/JYKIM317/TripMarket" />
+<img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff&link=https://github.com/JYKIM317/TripMarket"/>(https://github.com/JYKIM317/TripMarket)
 
 
 <div align=center>
