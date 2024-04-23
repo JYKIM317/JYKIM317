@@ -9,9 +9,9 @@
   - UI/UX
 
 ### Last completed project is
-<img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=61DAFB&link=https://github.com/JYKIM317/TripMarket" />
+<img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717&link=https://github.com/JYKIM317/TripMarket" />
 
-#181717
+
 <div align=center>
 <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
 </div>
