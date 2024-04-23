@@ -1,7 +1,7 @@
 ### Hi, I'm Jinyoung Kim
 
 ### Mobile Application Developer
-  - CrossPlatform Application develop with Flutter framwork
+  - Cross-platform application developed with the Flutter framework.
 
 ### Interest
   - Code design pattern
