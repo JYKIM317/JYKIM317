@@ -4,6 +4,7 @@
   - Cross-platform application developed with the Flutter framework.
 
 ### Interest
+  - Problem solve
   - Code design pattern
   - State management
   - UI/UX
