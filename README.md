@@ -10,7 +10,7 @@
   - UI/UX
 
 ### Last project is
-<a href="https://github.com/JYKIM317/TripMarket">
+<a href="https://github.com/JYKIM317/youdio">
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
