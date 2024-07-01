@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
+<a href="https://github.com/JYKIM317"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYKIM317&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 <div align=center>
 <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
