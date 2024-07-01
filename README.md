@@ -14,9 +14,10 @@
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-### Used Language
+### In Use Language
 <a href="https://github.com/JYKIM317"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYKIM317&layout=compact&theme=nord&hide_border=true" /></a> 
 
+###
 
 <div>
 <img src="https://img.shields.io/badge/DART-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />   <img src="https://img.shields.io/badge/FLUTTER-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
