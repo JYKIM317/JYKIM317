@@ -19,7 +19,7 @@
 
 
 <div align=center>
-<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/DART-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FLUTTER-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 </div>
 
 <!--
