@@ -1,13 +1,14 @@
 ### Hi, I'm Jinyoung Kim
 
-### Mobile Application Developer
+### Developer
+  - Web Frontend, Backend (Learning)
   - Cross-platform application developed with the Flutter framework.
 
 ### Interest
   - Problem solve
   - Code design pattern
-  - State management
-  - UI/UX
+  - Clean code
+  - Computer science
 
 ### Last project is
 <a href="https://github.com/JYKIM317/youdio">
@@ -17,10 +18,16 @@
 ### In Use Language
 <a href="https://github.com/JYKIM317"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYKIM317&layout=compact&theme=nord&hide_border=true" /></a> 
 
-###
+### Language
 
 <div>
-<img src="https://img.shields.io/badge/DART-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />   <img src="https://img.shields.io/badge/FLUTTER-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/DART-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />
+</div>
+
+### Framework
+
+<div>
+<img src="https://img.shields.io/badge/FLUTTER-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
 </div>
 
 <!--
