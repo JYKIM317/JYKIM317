@@ -1,7 +1,7 @@
 ### Hi, I'm Jinyoung Kim
 
 ### Developer
-  - Web Frontend, Backend (Learning)
+  - Web Backend (Learning)
   - Cross-platform application developed with the Flutter framework.
 
 ### Interest
