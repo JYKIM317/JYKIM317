@@ -40,6 +40,7 @@
 <div>
 <img src="https://img.shields.io/badge/FLUTTER-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div>
 
 <!--
