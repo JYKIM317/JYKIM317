@@ -11,7 +11,7 @@
   - Computer science
 
 ### Experiences
-  - NAVER Connect Boostcamp Web·Mobile 9 (24-06-24 ~ 24-12-06)
+  - NAVER Connect Foundation boostcamp web·mobile 9 (24-06-24 ~ 24-12-06)
 
 ### My Blog
 
