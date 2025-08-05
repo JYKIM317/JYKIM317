@@ -20,12 +20,9 @@
 </a>
 
 ### Last project is
-<a href="https://github.com/boostcampwm-2024/web25-funch">
+<a href="https://github.com/orgs/tidings-repositories/repositories">
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
-
-### In Use Language
-<a href="https://github.com/JYKIM317"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYKIM317&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ### Language
 
