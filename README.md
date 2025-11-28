@@ -11,7 +11,7 @@
   - Computer science
 
 ### Experiences
-  - NAVER Connect Foundation boostcamp web·mobile 9 (24-06-24 ~ 24-12-06)
+  - [NAVER Connect Foundation boostcamp web·mobile 9](https://github.com/boostcampwm-2024) (24-06-24 ~ 24-12-06)
   - [Whitecube Inc.](https://github.com/whitecubeinc) (25-09-24 ~)
 
 ### My Blog
