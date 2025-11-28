@@ -12,7 +12,7 @@
 
 ### Experiences
   - NAVER Connect Foundation boostcamp web·mobile 9 (24-06-24 ~ 24-12-06)
-  - Whitecube (25-09-24 ~)
+  - [Whitecube Inc.](https://github.com/whitecubeinc) (25-09-24 ~)
 
 ### My Blog
 
