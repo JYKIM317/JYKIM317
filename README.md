@@ -1,13 +1,19 @@
 ### Hi, I'm Jinyoung Kim
 
 ### Developer
-  - Web Backend
-  - Cross-platform application developed with the Flutter framework.
+  - Professional Focus
+    - Server Engineer <br>
+      Backend API development, database design, infrastructure, batch processing, and service operations
+  - Personal / Side Projects
+    - Web Frontend <br>
+      Web interface development using modern frontend frameworks.
+    - Cross-platform App <br>
+      Cross-platform application development with Flutter.
 
 ### Interest
   - Problem solve
-  - Code design pattern
-  - Clean code
+  - System architecture
+  - IT infrastructure
   - Computer science
 
 ### Experiences
