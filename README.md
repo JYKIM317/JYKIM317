@@ -11,7 +11,6 @@
       Cross-platform application development with Flutter.
 
 ### Interest
-  - Problem solve
   - System architecture
   - IT infrastructure
   - Computer science
